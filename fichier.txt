@@ -1,0 +1,7 @@
+:w
+ci est un fichier.txt
+:q
+
+je suis en mode insertion
+:w
+
