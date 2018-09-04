@@ -4,4 +4,4 @@ ci est un fichier.txt
 
 je suis en mode insertion
 :w
-
+ceci est le rajout d'une ligne supplémentaire
